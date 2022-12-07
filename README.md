@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travelling, Coding, Playing Video Games
 - 🌱 I’m currently learning MERN and I am studing Computer Engineering Course.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Contact info: (himalayapal123@gmail.com)
+- 📫 How to reach me Contact info: (palhimalaya123@gmail.com)
 
 ##Badges
 [![@palhimalaya's Holopin board](https://holopin.me/palhimalaya)](https://holopin.io/@palhimalaya)

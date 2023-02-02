@@ -7,12 +7,12 @@
 ##Badges
 [![@palhimalaya's Holopin board](https://holopin.me/palhimalaya)](https://holopin.io/@palhimalaya)
 
-
+</div>
 [![Himalaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=palhimalaya&show_icons=true&theme=radical)](https://github.com/palhimalaya/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palhimalaya&layout=compact&show_icons=true&theme=radical)](https://github.com/palhimalaya/github-readme-stats)
-
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=palhimalaya&theme=github-dark-blue)](https://git.io/streak-stats)
 

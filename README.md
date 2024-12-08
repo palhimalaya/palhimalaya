@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palhimalaya
 - 👀 I’m interested in Travelling, Coding, Playing Video Games
-- 🌱 I’m currently working with rails and react also doing side projects on MERN stack and I have completed Computer Engineering Degree.
+- 🌱 I'm currently working with Rails and React, and I'm also doing side projects with the MERN stack. I have completed a degree in Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Contact info: (palhimalaya123@gmail.com)
 
